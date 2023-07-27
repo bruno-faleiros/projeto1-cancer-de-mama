@@ -1,1 +1,1 @@
-O  objetivo é  limpar  e  transformar  os  dados  através  de  categorização,  codificação  e binarização  e  então  gerar  um  novo  dataset que  poderá  ser  usado  mais  a  frente  por  outros profissionaisda equipe de Ciência de Dados.
+O  objetivo desse projeto é limpar e transformar os dados através de categorização, codificação e binarização e então gerar um novo dataset que poderá ser usado mais a frente por outros profissionais da equipe de Ciência de Dados.
