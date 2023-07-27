@@ -3,9 +3,9 @@
 CREATE TABLE projeto1.tb_dados2
 AS
 SELECT 
-	CASE 
-		WHEN classe = 'no-recurrence-events' THEN 0 
-        WHEN classe = 'recurrence-events' THEN 1
+CASE 
+	WHEN classe = 'no-recurrence-events' THEN 0 
+    WHEN classe = 'recurrence-events' THEN 1
 	END as classe,
 	idade,
 	menopausa,
