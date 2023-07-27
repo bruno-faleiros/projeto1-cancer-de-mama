@@ -1,3 +1,5 @@
+'''
+
 CREATE TABLE projeto1.tb_dados2
 AS
 SELECT 
@@ -38,4 +40,4 @@ SELECT
 		WHEN irradiando = 'no' THEN 0 
         WHEN irradiando = 'yes' THEN 1
 	END as irradiando
-FROM projeto1.tb_dados;
+FROM projeto1.tb_dados;'''
