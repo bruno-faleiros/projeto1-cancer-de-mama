@@ -1,3 +1,5 @@
+'''O Indent size para essa query aqui no github está no número 8'''
+
 CREATE TABLE projeto1.tb_dados2
 AS
 SELECT 
@@ -14,7 +16,7 @@ SELECT
         	WHEN tamanho_tumor = '30-34' OR tamanho_tumor = '35-39' THEN 'Grande'
         	WHEN tamanho_tumor = '40-44' OR tamanho_tumor = '45-49' THEN 'Muito Grande'
        		WHEN tamanho_tumor = '50-54' OR tamanho_tumor = '55-59' THEN 'Tratamento Urgente'
-		END as tamanho_tumor,
+	END as tamanho_tumor,
 	inv_nodes,
 	CASE 
 		WHEN node_caps = 'no' THEN 0 
