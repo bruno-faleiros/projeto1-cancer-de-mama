@@ -1,3 +1,5 @@
+'''Por algum motivo a identação aqui no github fica esquisita'''  
+
 CREATE TABLE projeto1.tb_dados2
 AS
 SELECT 
