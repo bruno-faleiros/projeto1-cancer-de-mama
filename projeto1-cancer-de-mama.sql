@@ -1,5 +1,3 @@
-'''O Indent size para essa query aqui no github está no número 8'''
-
 CREATE TABLE projeto1.tb_dados2
 AS
 SELECT 
